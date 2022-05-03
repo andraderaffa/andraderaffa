@@ -1,5 +1,5 @@
 ### Olá, me chamo Rafael Andrade.
-<h4>Sou estudante de ADS, pela Uninabuco. Atualmente venho me dedicando a estudar JavaScript, Java, SQL, CSS3 e HTML5.</h4>
+<h4>Sou estudante de ADS. Atualmente venho me dedicando a estudar JavaScript, Java, SQL, CSS3 e HTML5.</h4>
 
 <br/>
 <br/>
