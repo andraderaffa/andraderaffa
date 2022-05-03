@@ -1,9 +1,5 @@
 ### Olá, sou o Rafael Andrade
 
-- 🔭 Hoje, sou estudante de ADS
-- 🌱 Eu estudo Java, JavaScript e CSS3
-- 😄 Pronouns: ele/dele
-
 <div align="center">
   <a href="https://github.com/andraderaffa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andraderaffa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
