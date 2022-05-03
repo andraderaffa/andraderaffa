@@ -1,4 +1,5 @@
-### Olá, sou o Rafael Andrade
+### Olá, sou o Rafael Andrade.
+##sou estudante de ADS, pela Uninabuco. Atualmente venho me dedicando a estudar JavaScript, Java, SQL, CSS3 e HTML5.
 
 <div align="center">
   <a href="https://github.com/andraderaffa">
