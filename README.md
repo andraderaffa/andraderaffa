@@ -1,6 +1,7 @@
 ### Olá, me chamo Rafael Andrade.
-<h4>Sou estudante de ADS. </h4>
-<h4>Atualmente venho me dedicando a estudar JavaScript, Java, React Native, CSS3 e HTML5.</h4>
+<h4>Estou no segundo período de Análise e Desenvolvimento de Sistemas. </h4>
+
+<h4>Atualmente venho me dedicando a estudar JavaScript, Java e React.</h4>
 
 <br/>
 <br/>
@@ -16,7 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Rafa-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
   
   ##
