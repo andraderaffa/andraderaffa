@@ -1,7 +1,7 @@
 ### Olá, me chamo Rafael Andrade.
 <h4>Estou no segundo período de Análise e Desenvolvimento de Sistemas. </h4>
 
-<h4>Atualmente venho me dedicando a estudar JavaScript, Java, React e Spring Boot.</h4>
+<h4>Atualmente venho me dedicando a estudar JavaScript, Java, React Native, React Js e Angular.</h4>
 
 <br/>
 <br/>
